@@ -1,0 +1,24 @@
+# AI-Driven Disaster Management System
+# Core requirements for the Streamlit Rescue Dashboard and extended AI features
+
+# Web Dashboard
+streamlit>=1.35.0
+streamlit-folium>=0.20.0
+
+# Geospatial Mapping
+folium>=0.16.0
+branca>=0.7.0
+
+# Computer Vision & Real-Time Drone Feed
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Alerts & Telecommunications
+twilio>=8.0.0
+python-dotenv>=1.0.0
+
+# API Requests & Data Processing
+requests>=2.31.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
